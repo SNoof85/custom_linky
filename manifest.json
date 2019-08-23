@@ -1,0 +1,5 @@
+{
+  "requirements": [
+    "pylinky==0.3.1"
+  ]
+}
