@@ -1,4 +1,6 @@
 {
+  "domain": "linky",
+  "name": "linky",
   "requirements": [
     "pylinky==0.3.1"
   ]
